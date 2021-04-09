@@ -1,8 +1,8 @@
 # House-Price-Prediction
 
+![download](https://user-images.githubusercontent.com/74828009/114238253-f4c0ea00-99a1-11eb-8cb9-aa3e157c3d25.jpg)
+
 I set out to use some regression models to predict housing prices in Iowa. I will be highlighting how I went about it, what worked for me, what didn’t and what I learnt in that process. Then we will find which model works the best.
-
-
 
 
 First what is the problem?
